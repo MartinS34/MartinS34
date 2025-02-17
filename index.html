@@ -8,15 +8,65 @@
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            padding: 50px;
+            padding: 20px;
+            background-color: #f8f9fa;
         }
         h1 {
             color: #333;
         }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .project {
+            text-align: left;
+            padding: 10px;
+            margin: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        .project h2 {
+            margin: 0;
+            color: #007bff;
+        }
+        .project p {
+            margin: 5px 0;
+        }
+        .project a {
+            color: #28a745;
+            text-decoration: none;
+        }
+        .project a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
-    <h1>Welcome to My Portfolio</h1>
-    <p>Hi, I'm Martin. This is my personal portfolio website.</p>
+
+    <div class="container">
+        <h1>Welcome to My Portfolio</h1>
+        <p>Hi, I'm Martin. This is my personal portfolio website.</p>
+
+        <h2>Projects</h2>
+
+        <div class="project">
+            <h2>Predicting Seasonal Drink Phase-Out</h2>
+            <p>Built a linear regression model to determine the best time to phase out Starbucks' seasonal drinks.</p>
+            <p><strong>Technologies:</strong> Python, NumPy, Matplotlib</p>
+            <a href="https://github.com/MartinS34/StarbucksSeasonalAnalysis" target="_blank">View on GitHub</a>
+        </div>
+
+        <div class="project">
+            <h2>Automated Expense Tracker</h2>
+            <p>Developed a Python script to track expenses and generate monthly spending reports.</p>
+            <p><strong>Technologies:</strong> Python, Pandas, Excel</p>
+            <a href="https://github.com/MartinS34/ExpenseTracker" target="_blank">View on GitHub</a>
+        </div>
+
+    </div>
+
 </body>
 </html>
