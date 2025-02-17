@@ -1,7 +1,7 @@
 # Analyzing Drug Effectiveness Using Weighted and Bayesian Ratings
 
 ## 📌 Overview
-This project explores different methods to measure **drug effectiveness** using:
+This academic project explores different methods to measure **drug effectiveness** using:
 - **Weighted Ratings** (adjusted by useful counts)
 - **Bayesian Scaling** (which favors drugs with more reviews)
 - **Average Ratings** (traditional approach)
@@ -37,6 +37,7 @@ For a full summary of findings and methodology, check out the project report:
 - [`top5.sh`](top5.sh) → Extracts the **top 5 highest-rated drugs**.
 - [`drug_data.tsv`](drug_data.tsv) → Original dataset containing drug reviews.
 - [`top_5_drugs.tsv`](top_5_drugs.tsv) → Filtered dataset of top-rated drugs.
+- [`a5-Visualization.ipynb`](a5-Visualization.ipynb) → Py file for data visualization of cleaned data
 
 
 ## 🔗 Repository
