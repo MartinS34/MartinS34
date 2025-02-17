@@ -25,6 +25,12 @@ This project explores different methods to measure **drug effectiveness** using:
 - **Bayesian scaling** favors drugs with **higher review counts**, reducing bias.
 - **Unexpected Result**: Bupropion, a **non-stimulant drug**, was more well received than stimulant ADHD drugs.
 
+## 📑 Final Report
+For a full summary of findings and methodology, check out the project report:
+
+📄 [View the Final Findings Report](findings.pdf)
+
+
 ## 📂 Project Files
 - [`wr.sh`](wr.sh) → Computes **weighted ratings** for each drug.
 - [`ar.sh`](ar.sh) → Computes **average ratings** for each drug.
