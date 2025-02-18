@@ -13,7 +13,7 @@ This project analyzes the **TP53 gene** across different species using **Multipl
 ```
 cs123-final/
 │── MSA_CS123.py                # Python script for MSA using Needleman-Wunsch algorithm
-│── TranslationtoAA.py          # Python script for nucleotide to amino acid conversion
+│── TranslationtoAA.py           # Python script for nucleotide to amino acid conversion
 │── Phylogenetic_Tree.R         # R script for phylogenetic tree building
 │── mammalAA.fasta              # Mammalian TP53 sequences (as Amino Acid)
 │── nonMammalAA.fasta           # Non-Mammalian TP53 sequences (as Amino Acid)
@@ -29,9 +29,9 @@ cs123-final/
 1. Run the translation script:
    ```bash
    python TranslationtoAA.py
-
-   (adjust line 62 per file location on local machine)
    ```
+   *(Adjust line 62 per file location on local machine)*
+
 ### **Python MSA (Needleman-Wunsch Algorithm)**
 1. Install dependencies:
    ```bash
@@ -41,6 +41,7 @@ cs123-final/
    ```bash
    python MSA_CS123.py
    ```
+
 ### **Phylogenetic Tree (R Version)**
 1. Install necessary packages in R:
    ```r
@@ -48,26 +49,22 @@ cs123-final/
    ```
 2. Open and run `Phylogenetic_Tree.R` in RStudio.
 
-
 ## 🔬 Validation & Accuracy
 
 To ensure the accuracy of our results, we performed additional validation:
 
-Clustal Omega: Used for sequence alignment comparison.
+- **Clustal Omega**: Used for sequence alignment comparison.
+- **Phylogeny.fr**: Used to generate an external phylogenetic tree for validation.
 
-Phylogeny.fr: Used to generate an external phylogenetic tree for validation.
-
-The findings in our report and presentation reflect insights from both our custom algorithms and external tools to ensure accuracy.
+The findings in our **report and presentation** reflect insights from both our custom algorithms and external tools to ensure accuracy.
 
 ## 📝 References
 
-NCBI Database for TP53 Sequences: https://www.ncbi.nlm.nih.gov/
+- **NCBI Database for TP53 Sequences**: [NCBI](https://www.ncbi.nlm.nih.gov/)
+- **Clustal Omega**: [Clustal Omega](https://www.ebi.ac.uk/Tools/msa/clustalo/)
+- **Phylogeny.fr**: [Phylogeny.fr](http://www.phylogeny.fr/)
+- **Phylogenetic Tree Basics**: [Washington University](https://evolution.gs.washington.edu/phylip/doc/main.html)
 
-Clustal Omega: https://www.ebi.ac.uk/Tools/msa/clustalo/
-
-Phylogeny.fr: http://www.phylogeny.fr/
-
-Phylogenetic Tree Basics: https://evolution.gs.washington.edu/phylip/doc/main.html
 ---
 📌 *Maintained by Martin Sanchez & Ryder Sabale*
 
