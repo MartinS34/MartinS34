@@ -42,6 +42,7 @@ For a full summary of findings and methodology, check out the project report:
 
 ## 🔗 Repository
 **View this project live in my portfolio:**  
-👉 [CS-131 Drug Effectiveness Analysis]([https://MartinS34.github.io/projects/cs131-a5](https://github.com/MartinS34/MartinS34.github.io/tree/main))
+👉 [Drug Effectiveness Analysis](https://github.com/MartinS34/MartinS34.github.io/tree/main/projects/cs131-final)
+
 
 ---
