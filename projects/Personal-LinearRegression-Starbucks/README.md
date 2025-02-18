@@ -44,9 +44,8 @@ projects/starbucks-regression/
 - Starbucks Sales Insights: **Based on real-world seasonal observations**
 
 ## 🔗 Repository
-🌐 View Online
+**View this project live in my portfolio:**  
+👉 [Starbucks Seasonal Drinks Analysis](https://github.com/MartinS34/MartinS34.github.io/tree/main/projects/starbucks-regression)
 
-View this project live on GitHub:
-👉 Starbucks Seasonal Drinks Analysis
 ---
 📌 *Maintained by Martin Sanchez*
