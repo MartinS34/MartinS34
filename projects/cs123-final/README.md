@@ -69,6 +69,7 @@ The findings in our **report and presentation** reflect insights from both our c
 📌 *Maintained by Martin Sanchez & Ryder Sabale*
 
 ## 🔗 Repository
-🌐 View the Project Live
+🌐 View Online
 
+View this project live on GitHub:
 👉 TP53 Phylogenetic Analysis
