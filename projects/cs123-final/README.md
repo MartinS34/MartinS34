@@ -65,11 +65,10 @@ The findings in our **report and presentation** reflect insights from both our c
 - **Phylogeny.fr**: [Phylogeny.fr](http://www.phylogeny.fr/)
 - **Phylogenetic Tree Basics**: [Washington University](https://evolution.gs.washington.edu/phylip/doc/main.html)
 
+## 🔗 Repository
+**View this project live in my portfolio:**  
+👉 [TP53 Phylogenetic Analysis](https://github.com/MartinS34/MartinS34.github.io/tree/main/projects/cs123-final)
+
 ---
 📌 *Maintained by Martin Sanchez & Ryder Sabale*
 
-## 🔗 Repository
-🌐 View Online
-
-View this project live on GitHub:
-👉 TP53 Phylogenetic Analysis
