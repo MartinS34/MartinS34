@@ -6,41 +6,55 @@
     <title>My Portfolio</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Arial', sans-serif;
             text-align: center;
             padding: 20px;
-            background-color: #f8f9fa;
-        }
-        h1 {
+            background-color: #f4f4f9;
             color: #333;
         }
+        h1 {
+            color: #222;
+            font-size: 2.2em;
+        }
         .container {
-            max-width: 800px;
+            max-width: 850px;
             margin: auto;
             background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .project {
             text-align: left;
-            padding: 10px;
-            margin: 10px 0;
-            border-bottom: 1px solid #ddd;
+            padding: 15px;
+            margin: 15px 0;
+            border-bottom: 2px solid #ddd;
+            background: #fff;
+            border-radius: 8px;
         }
         .project h2 {
             margin: 0;
+            font-size: 1.4em;
             color: #007bff;
         }
         .project p {
-            margin: 5px 0;
+            margin: 8px 0;
+            font-size: 1em;
+            color: #444;
+        }
+        .project ul {
+            list-style-type: disc;
+            padding-left: 20px;
         }
         .project a {
             color: #28a745;
+            font-weight: bold;
             text-decoration: none;
+            margin-right: 10px;
         }
         .project a:hover {
             text-decoration: underline;
+            color: #218838;
         }
     </style>
 </head>
@@ -52,7 +66,8 @@
 
         <h2>Projects</h2>
 
-     <div class="project">
+        <!-- Drug Effectiveness Project -->
+        <div class="project">
             <h2>Analyzing Drug Effectiveness Using Weighted and Bayesian Ratings</h2>
             <p>Used shell scripts and Python to compare different drug rating methodologies.</p>
             <p><strong>Technologies:</strong> Shell Scripting (cut, awk), Python (Google Colab, Matplotlib)</p>
@@ -60,6 +75,7 @@
             <a href="projects/cs131-a5/findings.pdf" target="_blank">View Final Report (PDF)</a>
         </div>
 
+        <!-- TP53 Phylogenetic Analysis -->
         <div class="project">
             <h2>TP53 Phylogenetic Analysis</h2>
             <p>This project analyzes the TP53 gene across species using Multiple Sequence Alignment (MSA) and phylogenetic tree construction.</p>
@@ -72,7 +88,6 @@
             <a href="projects/cs123-final/TP53-Sabale&Sanchez.pdf" target="_blank">View Presentation (PDF)</a>
         </div>
 
-
         <!-- Starbucks Seasonal Drinks Analysis -->
         <div class="project">
             <h2>Starbucks Seasonal Drinks Analysis</h2>
@@ -82,7 +97,7 @@
                 <li><strong>Key Variables:</strong> Week, Temperature, Holiday Weeks, Foot Traffic</li>
             </ul>
             <a href="projects/Personal-LinearRegression-Starbucks/" target="_blank">View Project Details</a> | 
-             <a href="projects/Personal-LinearRegression-Starbucks/Linear Algebra and Starbucks.pdf" target="_blank">View Final Report (PDF)</a>
+            <a href="projects/Personal-LinearRegression-Starbucks/Linear Algebra and Starbucks.pdf" target="_blank">View Final Report (PDF)</a>
         </div>
 
     </div>
