@@ -43,5 +43,10 @@ projects/starbucks-regression/
 - Python Libraries: **NumPy, Matplotlib**
 - Starbucks Sales Insights: **Based on real-world seasonal observations**
 
+## 🔗 Repository
+🌐 View Online
+
+View this project live on GitHub:
+👉 Starbucks Seasonal Drinks Analysis
 ---
 📌 *Maintained by Martin Sanchez*
