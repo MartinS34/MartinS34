@@ -9,7 +9,7 @@ This project analyzes the **TP53 gene** across different species using **Multipl
 - **Translation of nucleotide sequences into amino acid sequences**
 - **Analysis of TP53 sequence variations**
 
-## 📂 Project Structure
+## 📂 Project Files
 ```
 cs123-final/
 │── MSA_CS123.py                # Python script for MSA using Needleman-Wunsch algorithm
