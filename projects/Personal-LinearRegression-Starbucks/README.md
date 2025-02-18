@@ -45,7 +45,7 @@ projects/starbucks-regression/
 
 ## 🔗 Repository
 **View this project live in my portfolio:**  
-👉 [Starbucks Seasonal Drinks Analysis](https://github.com/MartinS34/MartinS34.github.io/tree/main/projects/starbucks-regression)
+👉 [Starbucks Seasonal Drinks Analysis](https://github.com/MartinS34/MartinS34.github.io/tree/main/projects/Personal-LinearRegression-Starbucks)
 
 ---
 📌 *Maintained by Martin Sanchez*
